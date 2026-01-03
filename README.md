@@ -79,7 +79,7 @@ A aplicação também está disponível online no Streamlit Cloud:
  ```
  
 ## 📊 Modelo de Machine Learning
-
+ ```txt
 Tipo: Regressão Linear
 
 Entrada: Diâmetro da pizza (cm)
@@ -87,9 +87,10 @@ Entrada: Diâmetro da pizza (cm)
 Saída: Preço estimado (R$)
 
 Este modelo é simples e didático, ideal para fins de aprendizado.
+ ```
 
 ##📚 Observações
-
+ ```txt
 Projeto com fins educacionais
 
 Ideal para quem está aprendendo:
@@ -101,6 +102,7 @@ Streamlit
 Criação de aplicações web simples com Python
 
 Pode ser facilmente expandido com: novos dados, gráficos, outros modelos de regressão.
+ ```
 
 ## 👨‍💻 Autor
 
